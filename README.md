@@ -11,14 +11,15 @@
 🛠️ Backend & Databases – Learning & experimenting<br>
 🔬 Low-Level Programming – Exploring Assembly & NASM
 
-🎯 Current Goals:
+# 🎯 Current Goals:
 
 🔥 Master React Native & Next.js<br>
 💰 Build & monetize useful apps<br>
 🚀 Get better at freelancing & solopreneurship
 
-📫 Let's Connect!
+# 📫 Let's Connect!
 Feel free to check out my projects or reach out! 🚀
+Email: <a href="mailto:kripoahhmail@gmail.com">kripoahhmail@gmail.com<a/>
 
 
 ## 🌐 Socials:

@@ -19,7 +19,7 @@
 
 # 📫 Let's Connect!
 Feel free to check out my projects or reach out! 🚀<br>
-Email: <a href="mailto:kripoahhmail@gmail.com" style="padding:20px;background-color:#000;color:#FFF">kripoahhmail@gmail.com<a/>
+Email: kripoahhmail@gmail.com
 
 
 ## 🌐 Socials:

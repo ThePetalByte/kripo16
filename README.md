@@ -4,7 +4,7 @@
 😍 Currently building apps with React Native, React, and Next.js<br>
 🛠️ Exploring Assembly (NASM) for fun!
 
-**#💻 What I Do:**
+#💻 What I Do:
 
 📱 Mobile Development – React Native, TypeScript<br>
 🌐 Web Development – React, Next.js, Tailwind CSS<br>

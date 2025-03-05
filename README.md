@@ -5,12 +5,14 @@
 🛠️ Exploring Assembly (NASM) for fun!
 
 💻 What I Do:
+
 📱 Mobile Development – React Native, TypeScript<br>
 🌐 Web Development – React, Next.js, Tailwind CSS<br>
 🛠️ Backend & Databases – Learning & experimenting<br>
 🔬 Low-Level Programming – Exploring Assembly & NASM
 
 🎯 Current Goals:
+
 🔥 Master React Native & Next.js<br>
 💰 Build & monetize useful apps<br>
 🚀 Get better at freelancing & solopreneurship
